@@ -1,0 +1,246 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-23</dcterms:available>
+    <dcterms:creator xml:lang="en">Saint Regis Mohawk Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.srmt-nsn.gov/us/nsn/srmt/council/resolutions/2020/2020-01/us/nsn/srmt/council/resolutions/2020/adopted/2020-01.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/us/nsn/srmt/council/resolutions/2020/2020-01"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 2020-01 — Adopt Saint Regis Mohawk Tribe Pesticide Regulation</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2024-09-23/2024-06-02]: Saint Regis Mohawk Tribe Res. No. 2020-01</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-06-02</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-08</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-08</oll:dateEffective>
+    <oll:docId>Saint Regis Mohawk Tribe Res. No. 2020-01</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23"/>
+    <oll:number>2020-01</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/1.0">
+    <oll:cite xml:lang="en">Section 1.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|1.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/1.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/10.0">
+    <oll:cite xml:lang="en">Section 10.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|10.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/10.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/11.0">
+    <oll:cite xml:lang="en">Section 11.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|11.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/11.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/11.1">
+    <oll:cite xml:lang="en">Section 11.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|11.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/11.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/12.0">
+    <oll:cite xml:lang="en">Section 12.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|12.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/12.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/13.0">
+    <oll:cite xml:lang="en">Section 13.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|13.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/13.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/14.0">
+    <oll:cite xml:lang="en">Section 14.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|14.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/14.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/15.0">
+    <oll:cite xml:lang="en">Section 15.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|15.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/15.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/2.0">
+    <oll:cite xml:lang="en">Section 2.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|2.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/2.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/2.1">
+    <oll:cite xml:lang="en">Section 2.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|2.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/2.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/3.0">
+    <oll:cite xml:lang="en">Section 3.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|3.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/3.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.0">
+    <oll:cite xml:lang="en">Section 4.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|4.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.1">
+    <oll:cite xml:lang="en">Section 4.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|4.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.2">
+    <oll:cite xml:lang="en">Section 4.2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|4.2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.3">
+    <oll:cite xml:lang="en">Section 4.3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|4.3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.4">
+    <oll:cite xml:lang="en">Section 4.4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|4.4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.5">
+    <oll:cite xml:lang="en">Section 4.5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|4.5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/5.0">
+    <oll:cite xml:lang="en">Section 5.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|5.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/5.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/6.0">
+    <oll:cite xml:lang="en">Section 6.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|6.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/6.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/6.1">
+    <oll:cite xml:lang="en">Section 6.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|6.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/6.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/7.0">
+    <oll:cite xml:lang="en">Section 7.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|7.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/7.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/7.1">
+    <oll:cite xml:lang="en">Section 7.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|7.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/7.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/7.2">
+    <oll:cite xml:lang="en">Section 7.2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|7.2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/7.2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/8.0">
+    <oll:cite xml:lang="en">Section 8.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|8.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/8.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/9.0">
+    <oll:cite xml:lang="en">Section 9.0</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|9.0|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/9.0</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/A">
+    <oll:cite xml:lang="en">APPENDIX A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2020-01|law|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01/_changes">
+    <rdf:_10 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/15.0"/>
+    <rdf:_11 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/2.0"/>
+    <rdf:_12 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/2.1"/>
+    <rdf:_13 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/3.0"/>
+    <rdf:_14 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.0"/>
+    <rdf:_15 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.1"/>
+    <rdf:_16 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.2"/>
+    <rdf:_17 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.3"/>
+    <rdf:_18 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.4"/>
+    <rdf:_19 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/4.5"/>
+    <rdf:_1 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01"/>
+    <rdf:_20 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/5.0"/>
+    <rdf:_21 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/6.0"/>
+    <rdf:_22 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/6.1"/>
+    <rdf:_23 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/7.0"/>
+    <rdf:_24 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/7.1"/>
+    <rdf:_25 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/7.2"/>
+    <rdf:_26 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/8.0"/>
+    <rdf:_27 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/9.0"/>
+    <rdf:_28 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/A"/>
+    <rdf:_2 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law"/>
+    <rdf:_3 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/1.0"/>
+    <rdf:_4 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/10.0"/>
+    <rdf:_5 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/11.0"/>
+    <rdf:_6 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/11.1"/>
+    <rdf:_7 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/12.0"/>
+    <rdf:_8 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/13.0"/>
+    <rdf:_9 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2020/2020-01#attachments/law/14.0"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

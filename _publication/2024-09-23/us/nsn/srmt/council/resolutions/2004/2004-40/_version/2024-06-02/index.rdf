@@ -1,0 +1,118 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-23</dcterms:available>
+    <dcterms:creator xml:lang="en">Saint Regis Mohawk Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.srmt-nsn.gov/us/nsn/srmt/council/resolutions/2004/2004-40/us/nsn/srmt/council/resolutions/2004/adopted/2004-40.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/us/nsn/srmt/council/resolutions/2004/2004-40"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 2004-40 — Saint Regis Mohawk Tribe Tobacco Ordinance Amendment</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2024-09-23/2024-06-02]: Saint Regis Mohawk Tribe Res. No. 2004-40</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-06-02</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-07-09</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-07-09</oll:dateEffective>
+    <oll:docId>Saint Regis Mohawk Tribe Res. No. 2004-40</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23"/>
+    <oll:number>2004-40</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/7">
+    <oll:cite xml:lang="en">Section 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/8">
+    <oll:cite xml:lang="en">Section 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/9">
+    <oll:cite xml:lang="en">Section 9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/A">
+    <oll:cite xml:lang="en">Appendix A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2004-40|law|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40/_changes">
+    <rdf:_10 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/8"/>
+    <rdf:_11 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/9"/>
+    <rdf:_12 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/A"/>
+    <rdf:_1 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40"/>
+    <rdf:_2 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law"/>
+    <rdf:_3 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/1"/>
+    <rdf:_4 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/2"/>
+    <rdf:_5 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/3"/>
+    <rdf:_6 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/4"/>
+    <rdf:_7 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/5"/>
+    <rdf:_8 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/6"/>
+    <rdf:_9 rdf:resource="https://law.srmt-nsn.gov/_publication/2024-09-23/_date/2024-06-02/us/nsn/srmt/council/resolutions/2004/2004-40#attachments/law/7"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
