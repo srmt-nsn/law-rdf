@@ -1,0 +1,238 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-08</dcterms:available>
+    <dcterms:creator xml:lang="en">Saint Regis Mohawk Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.srmt-nsn.gov/us/nsn/srmt/council/resolutions/2008/2008-30/us/nsn/srmt/council/resolutions/2008/adopted/2008-30.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/us/nsn/srmt/council/resolutions/2008/2008-30"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 2008-30 — Approving Mortgage Land Assignment Ordinance</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-04-08/2024-06-02]: Saint Regis Mohawk Tribe Res. No. 2008-30</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-06-02</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-04-22</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-04-22</oll:dateEffective>
+    <oll:docId>Saint Regis Mohawk Tribe Res. No. 2008-30</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08"/>
+    <oll:number>2008-30</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I">
+    <oll:cite xml:lang="en">law, CHAPTER I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I/A">
+    <oll:cite xml:lang="en">Section A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|I|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I/B">
+    <oll:cite xml:lang="en">Section B</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|I|B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I/B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I/C">
+    <oll:cite xml:lang="en">Section C</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|I|C|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I/C</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/II">
+    <oll:cite xml:lang="en">law, CHAPTER II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III">
+    <oll:cite xml:lang="en">law, CHAPTER III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/A">
+    <oll:cite xml:lang="en">Section A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|III|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/B">
+    <oll:cite xml:lang="en">Section B</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|III|B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/C">
+    <oll:cite xml:lang="en">Section C</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|III|C|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/C</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/D">
+    <oll:cite xml:lang="en">Section D</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|III|D|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/D</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/E">
+    <oll:cite xml:lang="en">Section E</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|III|E|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/E</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/IV">
+    <oll:cite xml:lang="en">law, CHAPTER IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/IV/A">
+    <oll:cite xml:lang="en">Section A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|IV|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/IV/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/V">
+    <oll:cite xml:lang="en">law, CHAPTER V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/V/A">
+    <oll:cite xml:lang="en">Section A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|V|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/V/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/V/B">
+    <oll:cite xml:lang="en">Section B</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|V|B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/V/B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI">
+    <oll:cite xml:lang="en">law, CHAPTER VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/A">
+    <oll:cite xml:lang="en">Section A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|VI|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/B">
+    <oll:cite xml:lang="en">Section B</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|VI|B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/C">
+    <oll:cite xml:lang="en">Section C</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|VI|C|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/C</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/D">
+    <oll:cite xml:lang="en">Section D</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|VI|D|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/D</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/E">
+    <oll:cite xml:lang="en">Section E</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|VI|E|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/E</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/F">
+    <oll:cite xml:lang="en">Section F</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|VI|F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/G">
+    <oll:cite xml:lang="en">Section G</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|VI|G|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/G</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VII">
+    <oll:cite xml:lang="en">law, CHAPTER VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2008-30|law|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30/_changes">
+    <rdf:_10 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/B"/>
+    <rdf:_11 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/C"/>
+    <rdf:_12 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/D"/>
+    <rdf:_13 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/E"/>
+    <rdf:_14 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/IV"/>
+    <rdf:_15 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/IV/A"/>
+    <rdf:_16 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/V"/>
+    <rdf:_17 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/V/A"/>
+    <rdf:_18 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/V/B"/>
+    <rdf:_19 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI"/>
+    <rdf:_1 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30"/>
+    <rdf:_20 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/A"/>
+    <rdf:_21 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/B"/>
+    <rdf:_22 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/C"/>
+    <rdf:_23 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/D"/>
+    <rdf:_24 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/E"/>
+    <rdf:_25 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/F"/>
+    <rdf:_26 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VI/G"/>
+    <rdf:_27 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/VII"/>
+    <rdf:_2 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law"/>
+    <rdf:_3 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I"/>
+    <rdf:_4 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I/A"/>
+    <rdf:_5 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I/B"/>
+    <rdf:_6 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/I/C"/>
+    <rdf:_7 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/II"/>
+    <rdf:_8 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III"/>
+    <rdf:_9 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2008/2008-30#attachments/law/III/A"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

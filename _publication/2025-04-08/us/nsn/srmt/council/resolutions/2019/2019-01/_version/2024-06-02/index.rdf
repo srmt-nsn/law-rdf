@@ -1,0 +1,102 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-08</dcterms:available>
+    <dcterms:creator xml:lang="en">Saint Regis Mohawk Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.srmt-nsn.gov/us/nsn/srmt/council/resolutions/2019/2019-01/us/nsn/srmt/council/resolutions/2019/adopted/2019-01.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/us/nsn/srmt/council/resolutions/2019/2019-01"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 2019-01 — Amend the Saint Regis Mohawk Tribe Alcohol Beverages Control Act to Permit a Craft Brewery</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-04-08/2024-06-02]: Saint Regis Mohawk Tribe Res. No. 2019-01</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-06-02</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-01-04</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-01-04</oll:dateEffective>
+    <oll:docId>Saint Regis Mohawk Tribe Res. No. 2019-01</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2019-01|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08"/>
+    <oll:number>2019-01</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2019/2019-01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2019-01|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2019-01|law|rules-and-regulations-for-a-craft-brewery|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/definitions">
+    <oll:cite xml:lang="en">law, , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2019-01|law|rules-and-regulations-for-a-craft-brewery|definitions|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/definitions</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/fines-and-penalties">
+    <oll:cite xml:lang="en">law, , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2019-01|law|rules-and-regulations-for-a-craft-brewery|fines-and-penalties|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/fines-and-penalties</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/forward">
+    <oll:cite xml:lang="en">law, , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2019-01|law|rules-and-regulations-for-a-craft-brewery|forward|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/forward</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/license">
+    <oll:cite xml:lang="en">law, , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2019-01|law|rules-and-regulations-for-a-craft-brewery|license|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/license</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/license-fees">
+    <oll:cite xml:lang="en">law, , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2019-01|law|rules-and-regulations-for-a-craft-brewery|license-fees|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/license-fees</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/policy">
+    <oll:cite xml:lang="en">law, , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2019-01|law|rules-and-regulations-for-a-craft-brewery|policy|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/policy</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/premises">
+    <oll:cite xml:lang="en">law, , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2019-01|law|rules-and-regulations-for-a-craft-brewery|premises|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/premises</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01/_changes">
+    <rdf:_10 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/premises"/>
+    <rdf:_1 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01"/>
+    <rdf:_2 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law"/>
+    <rdf:_3 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery"/>
+    <rdf:_4 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/definitions"/>
+    <rdf:_5 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/fines-and-penalties"/>
+    <rdf:_6 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/forward"/>
+    <rdf:_7 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/license"/>
+    <rdf:_8 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/license-fees"/>
+    <rdf:_9 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2019/2019-01#attachments/law/rules-and-regulations-for-a-craft-brewery/policy"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

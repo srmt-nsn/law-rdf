@@ -1,0 +1,446 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-08</dcterms:available>
+    <dcterms:creator xml:lang="en">Saint Regis Mohawk Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.srmt-nsn.gov/us/nsn/srmt/council/resolutions/2024/2024-08/us/nsn/srmt/council/resolutions/2024/adopted/2024-08.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/us/nsn/srmt/council/resolutions/2024/2024-08"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 2024-08 — To Amend Chapter 2 - Marriage, Divorce, and Custody of the Tenkwahswanon:Na | Family Court Code</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-04-08/2024-06-02]: Saint Regis Mohawk Tribe Res. No. 2024-08</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-06-02</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-20</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-20</oll:dateEffective>
+    <oll:docId>Saint Regis Mohawk Tribe Res. No. 2024-08</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08"/>
+    <oll:number>2024-08</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2">
+    <oll:cite xml:lang="en">law, Chapter 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.010">
+    <oll:cite xml:lang="en">Section 02.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.020">
+    <oll:cite xml:lang="en">Section 02.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.030">
+    <oll:cite xml:lang="en">Section 02.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.040">
+    <oll:cite xml:lang="en">Section 02.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.050">
+    <oll:cite xml:lang="en">Section 02.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.060">
+    <oll:cite xml:lang="en">Section 02.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.070">
+    <oll:cite xml:lang="en">Section 02.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.080">
+    <oll:cite xml:lang="en">Section 02.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.090">
+    <oll:cite xml:lang="en">Section 02.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.100">
+    <oll:cite xml:lang="en">Section 02.100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.110">
+    <oll:cite xml:lang="en">Section 02.110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.120">
+    <oll:cite xml:lang="en">Section 02.120</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.120|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.120</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.130">
+    <oll:cite xml:lang="en">Section 02.130</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.130|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.130</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.140">
+    <oll:cite xml:lang="en">Section 02.140</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.140|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.140</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.150">
+    <oll:cite xml:lang="en">Section 02.150</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.150|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.150</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.160">
+    <oll:cite xml:lang="en">Section 02.160</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.160|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.160</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.170">
+    <oll:cite xml:lang="en">Section 02.170</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.170|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.170</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.180">
+    <oll:cite xml:lang="en">Section 02.180</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.180|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.180</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.190">
+    <oll:cite xml:lang="en">Section 02.190</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.190|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.190</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.200">
+    <oll:cite xml:lang="en">Section 02.200</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.200|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.200</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.210">
+    <oll:cite xml:lang="en">Section 02.210</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.210|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.210</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.220">
+    <oll:cite xml:lang="en">Section 02.220</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.220|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.220</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.230">
+    <oll:cite xml:lang="en">Section 02.230</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.230|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.230</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.240">
+    <oll:cite xml:lang="en">Section 02.240</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.240|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.240</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.245">
+    <oll:cite xml:lang="en">Section 02.245</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.245|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.245</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.250">
+    <oll:cite xml:lang="en">Section 02.250</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.250|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.250</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.260">
+    <oll:cite xml:lang="en">Section 02.260</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.260|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.260</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.270">
+    <oll:cite xml:lang="en">Section 02.270</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.270|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.270</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.280">
+    <oll:cite xml:lang="en">Section 02.280</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.280|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.280</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.290">
+    <oll:cite xml:lang="en">Section 02.290</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.290|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.290</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.300">
+    <oll:cite xml:lang="en">Section 02.300</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.300|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.300</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.305">
+    <oll:cite xml:lang="en">Section 02.305</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.305|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.305</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.310">
+    <oll:cite xml:lang="en">Section 02.310</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.310|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.310</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.320">
+    <oll:cite xml:lang="en">Section 02.320</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.320|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.320</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.325">
+    <oll:cite xml:lang="en">Section 02.325</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.325|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.325</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.330">
+    <oll:cite xml:lang="en">Section 02.330</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.330|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.330</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.340">
+    <oll:cite xml:lang="en">Section 02.340</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.340|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.340</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.350">
+    <oll:cite xml:lang="en">Section 02.350</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.350|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.350</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.355">
+    <oll:cite xml:lang="en">Section 02.355</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.355|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.355</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.360">
+    <oll:cite xml:lang="en">Section 02.360</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.360|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.360</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.370">
+    <oll:cite xml:lang="en">Section 02.370</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.370|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.370</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.380">
+    <oll:cite xml:lang="en">Section 02.380</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.380|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.380</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.390">
+    <oll:cite xml:lang="en">Section 02.390</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.390|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.390</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.400">
+    <oll:cite xml:lang="en">Section 02.400</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.400|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.400</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.410">
+    <oll:cite xml:lang="en">Section 02.410</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.410|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.410</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.420">
+    <oll:cite xml:lang="en">Section 02.420</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.420|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.420</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.530">
+    <oll:cite xml:lang="en">Section 02.530</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.530|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.530</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.540">
+    <oll:cite xml:lang="en">Section 02.540</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.540|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.540</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.550">
+    <oll:cite xml:lang="en">Section 02.550</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|02.550|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.550</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/amendments">
+    <oll:cite xml:lang="en">law, Chapter 2, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2024-08|law|2|amendments|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/amendments</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08/_changes">
+    <rdf:_10 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.070"/>
+    <rdf:_11 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.080"/>
+    <rdf:_12 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.090"/>
+    <rdf:_13 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.100"/>
+    <rdf:_14 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.110"/>
+    <rdf:_15 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.120"/>
+    <rdf:_16 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.130"/>
+    <rdf:_17 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.140"/>
+    <rdf:_18 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.150"/>
+    <rdf:_19 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.160"/>
+    <rdf:_1 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08"/>
+    <rdf:_20 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.170"/>
+    <rdf:_21 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.180"/>
+    <rdf:_22 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.190"/>
+    <rdf:_23 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.200"/>
+    <rdf:_24 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.210"/>
+    <rdf:_25 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.220"/>
+    <rdf:_26 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.230"/>
+    <rdf:_27 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.240"/>
+    <rdf:_28 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.245"/>
+    <rdf:_29 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.250"/>
+    <rdf:_2 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law"/>
+    <rdf:_30 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.260"/>
+    <rdf:_31 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.270"/>
+    <rdf:_32 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.280"/>
+    <rdf:_33 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.290"/>
+    <rdf:_34 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.300"/>
+    <rdf:_35 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.305"/>
+    <rdf:_36 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.310"/>
+    <rdf:_37 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.320"/>
+    <rdf:_38 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.325"/>
+    <rdf:_39 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.330"/>
+    <rdf:_3 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2"/>
+    <rdf:_40 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.340"/>
+    <rdf:_41 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.350"/>
+    <rdf:_42 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.355"/>
+    <rdf:_43 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.360"/>
+    <rdf:_44 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.370"/>
+    <rdf:_45 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.380"/>
+    <rdf:_46 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.390"/>
+    <rdf:_47 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.400"/>
+    <rdf:_48 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.410"/>
+    <rdf:_49 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.420"/>
+    <rdf:_4 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.010"/>
+    <rdf:_50 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.530"/>
+    <rdf:_51 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.540"/>
+    <rdf:_52 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.550"/>
+    <rdf:_53 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/amendments"/>
+    <rdf:_5 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.020"/>
+    <rdf:_6 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.030"/>
+    <rdf:_7 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.040"/>
+    <rdf:_8 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.050"/>
+    <rdf:_9 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-08/_date/2024-06-02/us/nsn/srmt/council/resolutions/2024/2024-08#attachments/law/2/02.060"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
