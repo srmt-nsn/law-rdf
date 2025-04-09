@@ -1,0 +1,30 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2006/2006-57">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-09</dcterms:available>
+    <dcterms:creator xml:lang="en">Saint Regis Mohawk Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.srmt-nsn.gov/us/nsn/srmt/council/resolutions/2006/2006-57/us/nsn/srmt/council/resolutions/2006/adopted/2006-57.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/us/nsn/srmt/council/resolutions/2006/2006-57"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 2006-57 — Minimum Pricing on Cigarettes</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-04-09/2024-06-02]: Saint Regis Mohawk Tribe Res. No. 2006-57</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-06-02</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-08-31</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-08-31</oll:dateEffective>
+    <oll:docId>Saint Regis Mohawk Tribe Res. No. 2006-57</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2006-57|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2006/2006-57/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09"/>
+    <oll:number>2006-57</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2006/2006-57</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2006/2006-57/_changes">
+    <rdf:_1 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2006/2006-57"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

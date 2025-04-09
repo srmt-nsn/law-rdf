@@ -1,0 +1,742 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-09</dcterms:available>
+    <dcterms:creator xml:lang="en">Saint Regis Mohawk Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.srmt-nsn.gov/us/nsn/srmt/council/resolutions/2007/2007-32/us/nsn/srmt/council/resolutions/2007/adopted/2007-32.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/us/nsn/srmt/council/resolutions/2007/2007-32"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 2007-32 — Adopting the St. Regis Mohawk Limited Liability Company Ordinance</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-04-09/2024-06-02]: Saint Regis Mohawk Tribe Res. No. 2007-32</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-06-02</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-04-30</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-04-30</oll:dateEffective>
+    <oll:docId>Saint Regis Mohawk Tribe Res. No. 2007-32</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09"/>
+    <oll:number>2007-32</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I">
+    <oll:cite xml:lang="en">law, Chapter I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/010">
+    <oll:cite xml:lang="en">Section 010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/101">
+    <oll:cite xml:lang="en">Section 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/102">
+    <oll:cite xml:lang="en">Section 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/103">
+    <oll:cite xml:lang="en">Section 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/104">
+    <oll:cite xml:lang="en">Section 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/105">
+    <oll:cite xml:lang="en">Section 105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/106">
+    <oll:cite xml:lang="en">Section 106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/107">
+    <oll:cite xml:lang="en">Section 107</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|107|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/107</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/108">
+    <oll:cite xml:lang="en">Section 108</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|108|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/108</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/109">
+    <oll:cite xml:lang="en">Section 109</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|109|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/109</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/110">
+    <oll:cite xml:lang="en">Section 110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/111">
+    <oll:cite xml:lang="en">Section 111</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|I|111|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/111</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II">
+    <oll:cite xml:lang="en">law, Chapter II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/201">
+    <oll:cite xml:lang="en">Section 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/202">
+    <oll:cite xml:lang="en">Section 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/203">
+    <oll:cite xml:lang="en">Section 203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/204">
+    <oll:cite xml:lang="en">Section 204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/205">
+    <oll:cite xml:lang="en">Section 205</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|205|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/205</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/206">
+    <oll:cite xml:lang="en">Section 206</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|206|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/206</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/207">
+    <oll:cite xml:lang="en">Section 207</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|207|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/207</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/208">
+    <oll:cite xml:lang="en">Section 208</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|208|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/208</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/209">
+    <oll:cite xml:lang="en">Section 209</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|209|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/209</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/210">
+    <oll:cite xml:lang="en">Section 210</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|210|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/210</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/211">
+    <oll:cite xml:lang="en">Section 211</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|211|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/211</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/212">
+    <oll:cite xml:lang="en">Section 212</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|212|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/212</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/213">
+    <oll:cite xml:lang="en">Section 213</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|213|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/213</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/214">
+    <oll:cite xml:lang="en">Section 214</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|214|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/214</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/215">
+    <oll:cite xml:lang="en">Section 215</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|215|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/215</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/216">
+    <oll:cite xml:lang="en">Section 216</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|II|216|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/216</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III">
+    <oll:cite xml:lang="en">law, Chapter III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/301">
+    <oll:cite xml:lang="en">Section 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|III|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/302">
+    <oll:cite xml:lang="en">Section 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|III|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/303">
+    <oll:cite xml:lang="en">Section 303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|III|303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/304">
+    <oll:cite xml:lang="en">Section 304</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|III|304|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/304</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/305">
+    <oll:cite xml:lang="en">Section 305</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|III|305|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/305</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/306">
+    <oll:cite xml:lang="en">Section 306</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|III|306|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/306</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV">
+    <oll:cite xml:lang="en">law, Chapter IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/401">
+    <oll:cite xml:lang="en">Section 401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|IV|401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/402">
+    <oll:cite xml:lang="en">Section 402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|IV|402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/403">
+    <oll:cite xml:lang="en">Section 403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|IV|403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/404">
+    <oll:cite xml:lang="en">Section 404</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|IV|404|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/404</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/405">
+    <oll:cite xml:lang="en">Section 405</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|IV|405|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/405</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/406">
+    <oll:cite xml:lang="en">Section 406</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|IV|406|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/406</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/407">
+    <oll:cite xml:lang="en">Section 407</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|IV|407|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/407</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IX">
+    <oll:cite xml:lang="en">law, Chapter IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V">
+    <oll:cite xml:lang="en">law, Chapter V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/501">
+    <oll:cite xml:lang="en">Section 501</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|V|501|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/501</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/502">
+    <oll:cite xml:lang="en">Section 502</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|V|502|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/502</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/503">
+    <oll:cite xml:lang="en">Section 503</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|V|503|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/503</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/504">
+    <oll:cite xml:lang="en">Section 504</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|V|504|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/504</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/505">
+    <oll:cite xml:lang="en">Section 505</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|V|505|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/505</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI">
+    <oll:cite xml:lang="en">law, Chapter VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/601">
+    <oll:cite xml:lang="en">Section 601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VI|601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/602">
+    <oll:cite xml:lang="en">Section 602</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VI|602|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/602</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/603">
+    <oll:cite xml:lang="en">Section 603</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VI|603|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/603</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/604">
+    <oll:cite xml:lang="en">Section 604</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VI|604|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/604</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/605">
+    <oll:cite xml:lang="en">Section 605</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VI|605|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/605</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/606">
+    <oll:cite xml:lang="en">Section 606</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VI|606|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/606</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/607">
+    <oll:cite xml:lang="en">Section 607</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VI|607|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/607</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII">
+    <oll:cite xml:lang="en">law, Chapter VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/701">
+    <oll:cite xml:lang="en">Section 701</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VII|701|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/701</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/702">
+    <oll:cite xml:lang="en">Section 702</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VII|702|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/702</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/703">
+    <oll:cite xml:lang="en">Section 703</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VII|703|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/703</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/704">
+    <oll:cite xml:lang="en">Section 704</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VII|704|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/704</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/705">
+    <oll:cite xml:lang="en">Section 705</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VII|705|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/705</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII">
+    <oll:cite xml:lang="en">law, Chapter VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/801">
+    <oll:cite xml:lang="en">Section 801</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VIII|801|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/801</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/802">
+    <oll:cite xml:lang="en">Section 802</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VIII|802|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/802</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/803">
+    <oll:cite xml:lang="en">Section 803</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VIII|803|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/803</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/804">
+    <oll:cite xml:lang="en">Section 804</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VIII|804|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/804</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/805">
+    <oll:cite xml:lang="en">Section 805</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VIII|805|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/805</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/806">
+    <oll:cite xml:lang="en">Section 806</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|VIII|806|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/806</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X">
+    <oll:cite xml:lang="en">law, Chapter X</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|X|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1001">
+    <oll:cite xml:lang="en">Section 1001</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|X|1001|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1001</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1002">
+    <oll:cite xml:lang="en">Section 1002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|X|1002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1003">
+    <oll:cite xml:lang="en">Section 1003</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|X|1003|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1003</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1004">
+    <oll:cite xml:lang="en">Section 1004</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|X|1004|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1004</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI">
+    <oll:cite xml:lang="en">law, Chapter XI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|XI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1101">
+    <oll:cite xml:lang="en">Section 1101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|XI|1101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1102">
+    <oll:cite xml:lang="en">Section 1102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|XI|1102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1103">
+    <oll:cite xml:lang="en">Section 1103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|XI|1103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1104">
+    <oll:cite xml:lang="en">Section 1104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|XI|1104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1105">
+    <oll:cite xml:lang="en">Section 1105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|XI|1105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1106">
+    <oll:cite xml:lang="en">Section 1106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|XI|1106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1107">
+    <oll:cite xml:lang="en">Section 1107</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|XI|1107|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1107</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1108">
+    <oll:cite xml:lang="en">Section 1108</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|XI|1108|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1108</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1109">
+    <oll:cite xml:lang="en">Section 1109</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2007-32|law|XI|1109|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1109</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32/_changes">
+    <rdf:_10 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/106"/>
+    <rdf:_11 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/107"/>
+    <rdf:_12 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/108"/>
+    <rdf:_13 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/109"/>
+    <rdf:_14 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/110"/>
+    <rdf:_15 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/111"/>
+    <rdf:_16 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II"/>
+    <rdf:_17 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/201"/>
+    <rdf:_18 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/202"/>
+    <rdf:_19 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/203"/>
+    <rdf:_1 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32"/>
+    <rdf:_20 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/204"/>
+    <rdf:_21 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/205"/>
+    <rdf:_22 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/206"/>
+    <rdf:_23 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/207"/>
+    <rdf:_24 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/208"/>
+    <rdf:_25 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/209"/>
+    <rdf:_26 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/210"/>
+    <rdf:_27 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/211"/>
+    <rdf:_28 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/212"/>
+    <rdf:_29 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/213"/>
+    <rdf:_2 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law"/>
+    <rdf:_30 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/214"/>
+    <rdf:_31 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/215"/>
+    <rdf:_32 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/II/216"/>
+    <rdf:_33 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III"/>
+    <rdf:_34 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/301"/>
+    <rdf:_35 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/302"/>
+    <rdf:_36 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/303"/>
+    <rdf:_37 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/304"/>
+    <rdf:_38 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/305"/>
+    <rdf:_39 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/III/306"/>
+    <rdf:_3 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I"/>
+    <rdf:_40 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV"/>
+    <rdf:_41 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/401"/>
+    <rdf:_42 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/402"/>
+    <rdf:_43 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/403"/>
+    <rdf:_44 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/404"/>
+    <rdf:_45 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/405"/>
+    <rdf:_46 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/406"/>
+    <rdf:_47 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IV/407"/>
+    <rdf:_48 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/IX"/>
+    <rdf:_49 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V"/>
+    <rdf:_4 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/010"/>
+    <rdf:_50 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/501"/>
+    <rdf:_51 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/502"/>
+    <rdf:_52 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/503"/>
+    <rdf:_53 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/504"/>
+    <rdf:_54 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/V/505"/>
+    <rdf:_55 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI"/>
+    <rdf:_56 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/601"/>
+    <rdf:_57 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/602"/>
+    <rdf:_58 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/603"/>
+    <rdf:_59 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/604"/>
+    <rdf:_5 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/101"/>
+    <rdf:_60 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/605"/>
+    <rdf:_61 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/606"/>
+    <rdf:_62 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VI/607"/>
+    <rdf:_63 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII"/>
+    <rdf:_64 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/701"/>
+    <rdf:_65 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/702"/>
+    <rdf:_66 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/703"/>
+    <rdf:_67 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/704"/>
+    <rdf:_68 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VII/705"/>
+    <rdf:_69 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII"/>
+    <rdf:_6 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/102"/>
+    <rdf:_70 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/801"/>
+    <rdf:_71 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/802"/>
+    <rdf:_72 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/803"/>
+    <rdf:_73 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/804"/>
+    <rdf:_74 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/805"/>
+    <rdf:_75 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/VIII/806"/>
+    <rdf:_76 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X"/>
+    <rdf:_77 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1001"/>
+    <rdf:_78 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1002"/>
+    <rdf:_79 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1003"/>
+    <rdf:_7 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/103"/>
+    <rdf:_80 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/X/1004"/>
+    <rdf:_81 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI"/>
+    <rdf:_82 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1101"/>
+    <rdf:_83 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1102"/>
+    <rdf:_84 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1103"/>
+    <rdf:_85 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1104"/>
+    <rdf:_86 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1105"/>
+    <rdf:_87 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1106"/>
+    <rdf:_88 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1107"/>
+    <rdf:_89 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1108"/>
+    <rdf:_8 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/104"/>
+    <rdf:_90 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/XI/1109"/>
+    <rdf:_9 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2007/2007-32#attachments/law/I/105"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

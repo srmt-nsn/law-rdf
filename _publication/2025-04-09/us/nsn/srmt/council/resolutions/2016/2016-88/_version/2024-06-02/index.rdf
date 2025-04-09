@@ -1,0 +1,150 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-09</dcterms:available>
+    <dcterms:creator xml:lang="en">Saint Regis Mohawk Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.srmt-nsn.gov/us/nsn/srmt/council/resolutions/2016/2016-88/us/nsn/srmt/council/resolutions/2016/adopted/2016-88.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/us/nsn/srmt/council/resolutions/2016/2016-88"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 2016-88 — Resolution of the Saint Regis Mohawk Tribe to Amend the Room Occupancy Fee Ordinance</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-04-09/2024-06-02]: Saint Regis Mohawk Tribe Res. No. 2016-88</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-06-02</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-11-30</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-01</oll:dateEffective>
+    <oll:docId>Saint Regis Mohawk Tribe Res. No. 2016-88</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09"/>
+    <oll:number>2016-88</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/amendments">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|amendments|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/amendments</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/definitions">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|definitions|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/definitions</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/exemptions">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|exemptions|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/exemptions</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/forward">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|forward|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/forward</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/occupancy-permit-requirements">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|occupancy-permit-requirements|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/occupancy-permit-requirements</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/occupancy-rate">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|occupancy-rate|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/occupancy-rate</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-application-requirements">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|permit-application-requirements|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-application-requirements</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-denial">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|permit-denial|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-denial</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-fee">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|permit-fee|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-fee</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-process-and-distribution">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|permit-process-and-distribution|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-process-and-distribution</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/purpose">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|purpose|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/purpose</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/reporting-requirements">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|reporting-requirements|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/reporting-requirements</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/use-of-occupancy-fees">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|use-of-occupancy-fees|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/use-of-occupancy-fees</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/violations">
+    <oll:cite xml:lang="en">law, </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Saint Regis Mohawk Tribe Res. No. 2016-88|law|violations|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/violations</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88/_changes">
+    <rdf:_10 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-denial"/>
+    <rdf:_11 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-fee"/>
+    <rdf:_12 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-process-and-distribution"/>
+    <rdf:_13 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/purpose"/>
+    <rdf:_14 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/reporting-requirements"/>
+    <rdf:_15 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/use-of-occupancy-fees"/>
+    <rdf:_16 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/violations"/>
+    <rdf:_1 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88"/>
+    <rdf:_2 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law"/>
+    <rdf:_3 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/amendments"/>
+    <rdf:_4 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/definitions"/>
+    <rdf:_5 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/exemptions"/>
+    <rdf:_6 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/forward"/>
+    <rdf:_7 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/occupancy-permit-requirements"/>
+    <rdf:_8 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/occupancy-rate"/>
+    <rdf:_9 rdf:resource="https://law.srmt-nsn.gov/_publication/2025-04-09/_date/2024-06-02/us/nsn/srmt/council/resolutions/2016/2016-88#attachments/law/permit-application-requirements"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
